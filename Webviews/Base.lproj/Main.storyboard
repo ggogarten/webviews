@@ -31,6 +31,9 @@
                             <constraint firstItem="vN2-Jj-yUI" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-20" id="jUF-TT-mB9"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="webview" destination="vN2-Jj-yUI" id="tXe-h3-O9V"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
